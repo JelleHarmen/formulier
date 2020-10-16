@@ -1,0 +1,31 @@
+html,
+body {
+  height: 100%;
+}
+
+#app {
+  min-height: 100%;
+}
+
+.bg-cover {
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  -o-background-size: cover !important;
+  background-size: cover !important;
+}
+
+.row img {
+  max-width: 100%;
+}
+
+.push-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+// end-override

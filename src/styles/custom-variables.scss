@@ -1,0 +1,36 @@
+$primary: #a5c9d4;
+$secondary: #f5cece;
+$success: #4bbe87;
+$info: #f5cece;
+$warning: $yellow;
+$danger: #c00000;
+$light: #a9c3cc;
+$dark: $black;
+
+$theme-colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+  "success": $success,
+  "info": $info,
+  "warning": $warning,
+  "danger": $danger,
+  "light": $light,
+  "dark": $dark,
+);
+
+$enable-responsive-font-sizes: true;
+
+$headings-font-weight: 700;
+
+$border-radius: 0.875rem;
+$btn-border-radius: 0.875rem;
+
+$btn-color: #fff;
+
+$label-margin-bottom: 0.125rem;
+$input-height: 48px;
+
+$container-max-widths: (
+  lg: 960px,
+  xl: 1140px,
+);
