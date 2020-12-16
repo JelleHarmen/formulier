@@ -38,7 +38,7 @@ This is a formpage vue project with:
 
 #### Routes / Live Demo 
 
-https://rp7v6p.jelleharmen.com/        Form width validate
+https://rp7v6p.jelleharmen.com/        Form with validate
 
 https://rp7v6p.jelleharmen.com/form     Form with traditional pattern validation
 
